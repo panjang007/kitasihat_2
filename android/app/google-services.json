@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535172052950",
+    "project_id": "kitasihatmy-9ce17",
+    "storage_bucket": "kitasihatmy-9ce17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535172052950:android:d4e0b41ae3b0b76e339677",
+        "android_client_info": {
+          "package_name": "com.example.kitasihat_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaDchXS63n6acUpjElNk0tg2vyyZCz6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
