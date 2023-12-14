@@ -179,6 +179,7 @@ class _LoginPageState extends State<LoginPage> {
                           fontFamily: 'Outfit',
                           fontSize: 14,
                         )),
+                    const Text('Hi'),
                     GestureDetector(
                       child: const Text(
                         'here',
